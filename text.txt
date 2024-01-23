@@ -1,0 +1,20 @@
+colors:
+    nav bar:
+        #77D7D3 bg clr 01
+        #4BC9C4 bg clr 02
+        #126360 font clr 01
+
+        #2E4049 font clr 02
+        #FF6D6D bg clr btn 01
+        #D0D0D0 line style clr
+        #FFFFFF font clr 03
+
+
+    sections:
+        #ECF1F0 bg clr
+        #C5CECC line clr
+        #727272  font clr / bg clr
+        #F1EEEC bg clr
+        #384C56 bg clr footer
+
+eb
